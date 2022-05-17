@@ -1,6 +1,7 @@
-![firstslide](https://user-images.githubusercontent.com/2963432/168870504-73b18286-872a-4014-8b70-e76f1430492d.png)
+# Future of Pay 
+by MERCANTILLE LABS 
 
-# Future of Pay by MERCANTILLE LABS
+![firstslide](https://user-images.githubusercontent.com/2963432/168870504-73b18286-872a-4014-8b70-e76f1430492d.png)
 
 ### What
 

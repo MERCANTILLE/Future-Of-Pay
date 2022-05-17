@@ -20,7 +20,7 @@ We see this repo as a starting point of the new science and new school of though
 
 ### Who
 
-'MERCANTILLE' is a general solution for incentive design and automated pay. We’re building a set of tools for the new wave organisations, tools that allow them to reward contribution and pay their members sustainably, fairly and openly. 
+`MERCANTILLE` is a general solution for incentive design and automated pay. We’re building a set of tools for the new wave organisations, tools that allow them to reward contribution and pay their members sustainably, fairly and openly. 
 
 This repo is our accumulated knowledge in this modern wage theory. We’re welcoming all contributors to make this accumulated knowledge truly global. Refer to this guilde if you’d like to contribute an article. 
 

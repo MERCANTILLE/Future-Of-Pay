@@ -1,6 +1,8 @@
-# About
+# Future of Pay by MERCANTILLE LABS
 
-![futureofwork](https://user-images.githubusercontent.com/2963432/168869811-02e1aeae-6a48-48d5-a004-0d081b900384.png)
+![firstslide](https://user-images.githubusercontent.com/2963432/168870504-73b18286-872a-4014-8b70-e76f1430492d.png)
+
+# About
 
 ### What
 

@@ -1,5 +1,4 @@
 # Future of Pay 
-A primer on DAO rewards and incentives by Mercantille Labs
 
 ![firstslide](https://user-images.githubusercontent.com/2963432/168870504-73b18286-872a-4014-8b70-e76f1430492d.png)
 
@@ -25,10 +24,10 @@ MERCANTILLE is a general solution for incentive design and automated pay. We’r
 
 This repo is our accumulated knowledge in this modern wage theory. We’re welcoming all contributors to make this accumulated knowledge truly global. Refer to this guilde if you’d like to contribute an article. 
 
-<br> 
+---
 
 ![16](https://user-images.githubusercontent.com/2963432/168870361-57daf587-e45c-4a7a-b689-083a3dcccab3.png)
----
+
 
 # Table of Concepts
 ## Web3 concepts

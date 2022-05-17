@@ -1,5 +1,6 @@
-![futureofwork](https://user-images.githubusercontent.com/2963432/168869811-02e1aeae-6a48-48d5-a004-0d081b900384.png)
 # About
+
+![futureofwork](https://user-images.githubusercontent.com/2963432/168869811-02e1aeae-6a48-48d5-a004-0d081b900384.png)
 
 ### What
 
@@ -19,7 +20,8 @@ MERCANTILLE is a general solution for incentive design and automated pay. We’r
 
 This repo is our accumulated knowledge in this modern wage theory. We’re welcoming all contributors to make this accumulated knowledge truly global. Refer to this guilde if you’d like to contribute an article. 
 
-![firstslide](https://user-images.githubusercontent.com/2963432/168870139-19d7f758-59f7-4aad-bec4-918816924df3.png)
+![16](https://user-images.githubusercontent.com/2963432/168870361-57daf587-e45c-4a7a-b689-083a3dcccab3.png)
+
 
 # Table of Concepts
 ### Web3 concepts

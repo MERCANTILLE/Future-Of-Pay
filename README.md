@@ -24,7 +24,7 @@ MERCANTILLE is a general solution for incentive design and automated pay. We’r
 
 This repo is our accumulated knowledge in this modern wage theory. We’re welcoming all contributors to make this accumulated knowledge truly global. Refer to this guilde if you’d like to contribute an article. 
 
-# Table of Contents
+# Table of Concepts
 
 
 ### Web3 concepts

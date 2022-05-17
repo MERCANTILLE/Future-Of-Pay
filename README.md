@@ -1,2 +1,45 @@
-# Future of Pay
-### A primer on salary, rewards and incentives in the Web3 world by MERCANTILLE LABS
+A primer on salary, rewards and incentives in the Web3 world by MERCANTILLE LABS
+
+# About
+
+
+### What
+
+
+This is an attempt to systemise and maintain the exaustive list of reward systems and incentive schemes employed by various DAOs. 
+
+### Why 
+
+
+The concept of salary as we know it has many issues. It’s a bad motivator, it’s a lagging reward, it’s subject to politics and hacks and most importantly, it creates misaligned incentives for organisations and employees. 
+
+There’s a growing need to rethink how we reward work to better suit the ownership economy. 
+
+We see this repo as a starting point of the new science and new school of thought. We envision for it to be used in countless experiments aimed on propelling humanity towards creating a positive-sum financial system.  
+
+### Who
+
+
+MERCANTILLE is a general solution for incentive design and automated pay. We’re building a set of tools for the new wave organisations, which allow them to reward contribution and pay their members sustainably, fairly and openly. 
+
+This repo is our accumulated knowledge in this modern wage theory. We’re welcoming all contributors to make this accumulated knowledge truly global. Refer to this guilde if you’d like to contribute an article. 
+
+# Table of Contents
+
+
+### Web3 concepts
+
+
+Bounties
+
+Praise
+
+Streams
+
+### Old concepts
+
+
+Monthly salary
+
+### Web2 concepts
+

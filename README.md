@@ -31,7 +31,7 @@ This repo is our accumulated knowledge in this modern wage theory. We’re welco
 
 # Table of Concepts
 ## Web3 concepts
-[a relative link](/Web3/Bounties)
+[Bounties](/Web3/Bounties.md)
 
 Praise
 

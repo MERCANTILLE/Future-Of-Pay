@@ -31,12 +31,12 @@ This repo is our accumulated knowledge in this modern wage theory. We’re welco
 
 # Table of Concepts
 ## Web3 concepts
--[Bounties](/Web3/Bounties.md)
--[Praise](/Web3/Praise.md)
--[Streams](/Web3/Streams.md)
+- [Bounties](/Web3/Bounties.md)
+- [Praise](/Web3/Praise.md)
+- [Streams](/Web3/Streams.md)
 
 ## Old concepts
-[Monthly Salary](/Old/Monthly Salary.md)
+- [Monthly Salary](/Old/Monthly%20Salary.md)
 
 ## Web2 concepts
--[Likes](/Web2/Likes.md)
+- [Likes](/Web2/Likes.md)

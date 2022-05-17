@@ -2,11 +2,13 @@
 
 ![firstslide](https://user-images.githubusercontent.com/2963432/168870504-73b18286-872a-4014-8b70-e76f1430492d.png)
 
-## What
+## About
+
+### What
 
 This is an attempt to systemise and maintain the exaustive list of reward systems and incentive schemes employed by various DAOs. 
 
-## Why
+### Why
 
 The concept of salary as we know it has many issues. It’s a bad motivator, it’s a lagging reward, it’s subject to politics and hacks and most importantly, it creates misaligned incentives for organisations and employees. 
 
@@ -14,11 +16,13 @@ There’s a growing need to rethink how we reward work to better suit the owners
 
 We see this repo as a starting point of the new science and new school of thought. We envision for it to be used in countless experiments aimed on propelling humanity towards creating a positive-sum financial system.  
 
-## Who
+### Who
 
 MERCANTILLE is a general solution for incentive design and automated pay. We’re building a set of tools for the new wave organisations, which allow them to reward contribution and pay their members sustainably, fairly and openly. 
 
 This repo is our accumulated knowledge in this modern wage theory. We’re welcoming all contributors to make this accumulated knowledge truly global. Refer to this guilde if you’d like to contribute an article. 
+
+
 
 ![16](https://user-images.githubusercontent.com/2963432/168870361-57daf587-e45c-4a7a-b689-083a3dcccab3.png)
 
